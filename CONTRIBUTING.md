@@ -15,8 +15,8 @@ Thank you for your interest in contributing to the Sapiom SDK! We welcome contri
 2. Clone your fork:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/sdk.git
-   cd sdk
+   git clone https://github.com/YOUR_USERNAME/sapiom-js.git
+   cd sapiom-js
    ```
 
 3. Install dependencies:
